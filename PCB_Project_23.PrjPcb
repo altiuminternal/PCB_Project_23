@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=98BD3CF5-3526-4AD9-9C1D-F950830F4DC5
+VaultGUID=62C1359C-0E62-4454-946D-F1FE72AA3877
+ReleaseVaultName=1
+ItemGUID=98BD3CF5-3526-4AD9-9C1D-F950830F4DC5
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=62C1359C-0E62-4454-946D-F1FE72AA3877&ItemGUID=3C1EC346-AF78-4D8E-9B65-D8D8F177454D&RevisionGUID=BA791DEA-7F31-4AF9-92BB-F1D2DF7D2354&MainFilename=PCB_Project1.PrjPCB
 IncludeDesignInRelease=0
 
